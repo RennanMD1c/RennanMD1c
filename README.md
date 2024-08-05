@@ -6,7 +6,7 @@ Meu nome é Rennan da Silva
 - Estou me desenvolvendo na linguagem JavaSript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Estudo na Mria Dolores :D
+### Estudo na Maria Dolores :D
 
 
 ![](https://media.tenor.com/ZfjPXUvbNPYAAAAi/godzilla-dance.gif0)
